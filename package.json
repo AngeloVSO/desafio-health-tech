@@ -1,0 +1,22 @@
+{
+  "name": "funcional-health",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AngeloVSO/funcional-health-tech.git",
+  "author": "AngeloVSO <angelo_odwyer@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  },
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "dotenv": "^10.0.0",
+    "graphql": "^15.5.1",
+    "graphql-tools": "^7.0.5",
+    "knex": "^0.95.7",
+    "mysql": "^2.18.1"
+  }
+}
