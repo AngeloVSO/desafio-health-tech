@@ -1,4 +1,8 @@
-# Desafio - Funcional Health Tech
+<div align="center">
+<h1>Desafio técnico</h1>
+<img src="https://user-images.githubusercontent.com/70985334/125336552-4f147280-e324-11eb-859e-12f8dce3fabb.png" width="200"/>
+</div>
+
 
 ## Objetivo
 Desenvolver uma API em NodeJS que simule algumas funcionalidades de um banco digital.
